@@ -16,8 +16,8 @@ public class Java_1 {
 		
 		int a,b,d=0;
 		
-		a= sc.nextInt();//갯수
-		b= sc.nextInt();//비교대상
+		a= sc.nextInt(); //갯수
+		b= sc.nextInt(); //비교대상
 		int[] c= new int[a];
 
 		if(a>=1 && b<=10000) {

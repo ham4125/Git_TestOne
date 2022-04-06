@@ -14,7 +14,6 @@ public class Java_3 {
 		a = sc.nextInt();
 		
 		for(int i=0; i<=a; i++) {
-			
 			b+=i;
 		}
 		System.out.println(b);

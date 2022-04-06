@@ -34,7 +34,7 @@ public class Java_2 {
 				if(j==num.length) {
 					break;
 				}
-				num[j]= sc.nextInt();
+				num[j]=sc.nextInt();
 					if(num[j]==1) {		
 						number++;
 						sum+=number;
