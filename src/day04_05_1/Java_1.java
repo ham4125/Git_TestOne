@@ -6,6 +6,7 @@ public class Java_1 {
 
 	public static void main(String[] args) {
 		//사칙연산
+		
 		Scanner sc = new Scanner(System.in);
 		int a;
 		int b;
