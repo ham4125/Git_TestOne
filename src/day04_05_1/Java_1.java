@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Java_1 {  
 
 	public static void main(String[] args) {
-		//사칙연산 
+		//사칙연산 test
 		
 		Scanner sc = new Scanner(System.in);
 		int a;
