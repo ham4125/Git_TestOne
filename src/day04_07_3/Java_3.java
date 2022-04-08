@@ -20,7 +20,7 @@ public class Java_3 {
 		if(a>=1 && a<=100) {
 
 			for(int i=0; i<=a-1; i++) {
-				System.out.println("1");
+				System.out.println(" ");
 				for(int j=a-1; j>=i; j--) {
 					System.out.print("*");
 				}
