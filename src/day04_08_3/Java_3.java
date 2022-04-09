@@ -17,16 +17,16 @@ public class Java_3 {
 		
 		if(a>=1 && a<=100) {
 			
-		for(int i=0; i<=a-1; i++) {
+		for(int i=0; i<a; i++) {
 				
 			
 			for(int num=0; num<=i; num++) {
 				System.out.print(" ");
 			}
-			for(int num=a-1; num>=i; num--) {
+			for(int num=a; num>i; num--) {
 				System.out.print("*");
 			}
-			for(int num=a-2; num>=i; num--) {
+			for(int num=a-1; num>i; num--) {
 				System.out.print("*");
 			}
 			

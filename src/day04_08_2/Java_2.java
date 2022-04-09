@@ -17,9 +17,9 @@ public class Java_2 {
 		
 		if(a>=1 && a<=100) {
 			
-		for(int i=0; i<=a-1; i++) {
+		for(int i=0; i<a; i++) {
 				
-				for(int num=a; num>=i-1; num--) {
+				for(int num=a; num>i; num--) {
 					System.out.print(" ");
 				}
 				
@@ -27,7 +27,7 @@ public class Java_2 {
 					System.out.print("*");
 				}
 				
-				for(int num=0; num<=i-1; num++) {
+				for(int num=0; num<i; num++) {
 					System.out.print("*");
 				}
 				
