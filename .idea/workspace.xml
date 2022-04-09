@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b255bad8-c95d-46a3-adcf-c8cff02a15cf" name="Changes" comment="" />
+    <list default="true" id="b255bad8-c95d-46a3-adcf-c8cff02a15cf" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maeng/baekjoon/day001_00000_decimal_220409.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maeng/baekjoon/day001_01000_220409.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maeng/baekjoon/day001_01001_220409.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maeng/baekjoon/day001_01008_220409.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day04_05_1/Java_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day04_05_1/Java_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day04_05_2/Java_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day04_05_2/Java_2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -19,6 +39,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="27YjeVn5bVzThuKzBPc0wPna8NH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,13 +49,23 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="모듈" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="애플리케이션.Java_2">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="maeng.baekjoon" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션.day001_01008_220409">
     <configuration name="Java_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_301\jre" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -76,14 +109,58 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Java_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04_05_3.Java_3" />
+      <module name="Github_2022_04_05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04_05_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day001_01000_220409" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maeng.baekjoon.day001_01000_220409" />
+      <module name="Github_2022_04_05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maeng.baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day001_01008_220409" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maeng.baekjoon.day001_01008_220409" />
+      <module name="Github_2022_04_05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maeng.baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="애플리케이션.Java_1" />
       <item itemvalue="애플리케이션.Java_2" />
+      <item itemvalue="애플리케이션.Java_3" />
+      <item itemvalue="애플리케이션.day001_01000_220409" />
+      <item itemvalue="애플리케이션.day001_01008_220409" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.day001_01008_220409" />
+        <item itemvalue="애플리케이션.day001_01000_220409" />
+        <item itemvalue="애플리케이션.Java_3" />
         <item itemvalue="애플리케이션.Java_2" />
-        <item itemvalue="애플리케이션.Java_1" />
         <item itemvalue="애플리케이션.Java_1" />
       </list>
     </recent_temporary>
@@ -97,7 +174,8 @@
       <option name="presentableId" value="Default" />
       <updated>1649504008354</updated>
       <workItem from="1649504010393" duration="16000" />
-      <workItem from="1649504043003" duration="598000" />
+      <workItem from="1649504043003" duration="1113000" />
+      <workItem from="1649505403858" duration="4294000" />
     </task>
     <servers />
   </component>
